@@ -1,1 +1,1 @@
-Task 0 solution by Naheem Okunade
+1-listit file  displays the contents in the current directory
