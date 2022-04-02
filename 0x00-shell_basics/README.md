@@ -1,1 +1,1 @@
-6-firstdirectory create  directory in a tmp directory
+7-movethatfile: Move file betty to subdirectory my_first_directory which is inside directory tmp
