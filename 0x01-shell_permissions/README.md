@@ -1,2 +1,1 @@
-0-iam_betty: writing script that will switch the currant user to user betty
-whoami
+2-groups: Write a script that prints all the groups the current user is part of.
