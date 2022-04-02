@@ -1,0 +1,2 @@
+#!/bin/bash rm
+chown betty hello
