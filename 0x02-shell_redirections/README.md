@@ -1,1 +1,1 @@
-No more javascript: wrote a script that delete all the regular files with a .js extension that are present in the current directory and all it's subfolders.
+11-directories: Wrote a script that counts the number of directories and sub-directories in the current directory.
