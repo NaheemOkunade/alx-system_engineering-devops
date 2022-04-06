@@ -1,1 +1,1 @@
-20-hiago: Created a script that removes all letters c and C from input.
+21-reverse: Wrote a script that reverse its input.
